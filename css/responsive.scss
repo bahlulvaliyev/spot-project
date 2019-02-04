@@ -1,0 +1,699 @@
+@media only screen and (min-width: 1024px) and (max-width: 1919.98px) { 
+    .art-30 {
+        font-size: 23px !important;
+    }
+    .art-50 {
+        font-size: 25px !important;
+    }
+    .menuFace {
+        margin-top: 160px;
+        font-size: 22.33px;
+    }
+    .menuInstag {
+        margin-top: 15px;
+        font-size: 22.33px;
+    }
+
+
+    //index
+    .headerContainer {
+        width: 820px;
+    }
+    .allSecWidth {
+        width: 820px;
+    }
+    .header-logo {
+        font-size: 41.44px;
+        padding-left: 40px;
+    }
+    .header-logo::before {
+        width: 11px;
+        height: 11px;
+        top: 43%;
+    }
+    .headerOpen {
+        font-size: 14px;
+        padding-top: 14px;
+    }
+    .headerClose {
+        font-size: 14px;
+        padding-top: 14px;
+    }
+    .headerOpen::before {
+        top: 64%;
+        width: 9px;
+        height: 9px;
+    }
+    .headerClose::before {
+        top: 64%;
+        width: 9px;
+        height: 9px;
+    }
+    .header {
+        margin-bottom: 50px;
+    }
+    .headerWrap {
+        height: 50px;
+    }
+    //index 
+    .postItem{
+        height: 330px;
+    }
+    .postPlay {
+        font-size: 140px;
+        right: 39%;
+        top: 30%;
+    }
+    .postItem--header {
+        font-size: 15px;
+        line-height: 20.94px;
+        padding-top: 10px;
+    }
+    .postItem--text {
+        font-size: 9px;
+        font-weight: bolder;
+        padding-top: 10px;
+    }
+    .footer hr {
+        margin-top: 200px;
+    }
+    .postItem--side {
+        margin-top: 20px;
+    }
+    .pageContent__menu ul {
+        padding-top: 100px;
+    }
+    .pageContent__menu ul li {
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    .contentFashion--artist{
+        font-size: 20px;
+        line-height: 40.17px;
+    }
+    .contentFashion--header {
+        font-size: 23px;
+        line-height: 60.17px;
+    }
+    .contentFashion--text {
+        font-size: 12px;
+        line-height: 16px !important;
+    }
+    .contentFashion--price {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .contentFashion--order {
+        font-size: 25px;
+    }
+    .shop__img {
+        height: 480px;
+    }
+    .shopWrapper--img {
+        margin: 13px 0;
+    }
+    .shop__imgOne {
+        height: 85px;
+    }
+    .shop__imgTwo {
+        height: 85px;
+    }
+    .shop__imgThree {
+        height: 85px;
+    }
+    .shop__imgFour {
+        height: 85px;
+    }
+    .contentFashion {
+        height: 86.5%;
+    }
+    .footerCopyr {
+        padding-top: 65px;
+        padding-bottom: 20px;
+    }
+    .footer {
+        font-size: 16px;
+    }
+    //art gallery post
+    .galleryPost {
+        margin-bottom: 15px;
+    }
+    .galleryImage--one {
+        height: 181px;
+    }
+    .galleryImage--two {
+        height: 181px;
+    }
+    .galleryImage--thr {
+        height: 181px;
+    }
+    .galleryImage--four {
+        height: 181px;
+    }
+    .galleryImage--five {
+        height: 181px;
+    }
+    .galleryImage--six {
+        height: 181px;
+    }
+    .contentArtist {
+        height: 86.5%;
+    }
+    .pageContent__info--header {
+        font-size: 15px;
+        line-height: 25.94px;
+    }
+    .private--name {
+        display: none;
+        position: absolute;
+        right: 11px;
+        bottom: 11px;
+        font-size: 15.47px;
+        font-weight: bold;
+        color: #ffffff;
+        text-align: right;
+        line-height: 20.96px;
+    }
+
+    // Fashion
+    .pageContent__info--header ul li {
+        margin-bottom: 15px;
+    }
+    .pageContent__info--header {
+        font-size: 16px;
+        line-height: 20.94px;
+    }
+    .fashionImage--one {
+        height: 181px;
+    }
+    .fashionImage--two {
+        height: 181px;
+    }
+    .fashionImage--thr {
+        height: 181px;
+    }
+    .fashionImage--four {
+        height: 181px;
+    }
+    .fashionImage--five {
+        height: 181px;
+    }
+    .fashionImage--six {
+        height: 181px;
+    }
+    // art Gallery post
+    .galleryPost-text {
+        font-size: 14px;
+        line-height: 17.83px;
+        margin-bottom: 20px;
+    }
+
+    //about us
+    .pageContent__info--text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .pageContent__info--wrap iframe{
+        height: 250px;
+    }
+    .aboutUs--address {
+        font-size: 15px;
+    }
+    .galleryPost-text:hover {
+        font-size: 16px;
+        -webkit-transition: 0.5s;
+        transition: 0.5s;
+        cursor: pointer;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 1023.98px) {
+    .art-30 {
+        font-size: 21px !important;
+    } 
+    .art-50 {
+        font-size: 25px !important;
+    }
+    .header {
+        margin-bottom: 40px;
+    }
+    //index
+     .headerContainer {
+        width: 614px;
+    }
+    .allSecWidth {
+        width: 614px;
+    }
+    .headerWrap {
+        height: 60px;
+    }
+    .header-logo {
+        padding-left: 40px;
+        font-size: 45.44px;
+    }
+    .header-logo::before {
+        width: 14px;
+        height: 14px;
+        top: 40%;
+    }
+    .headerOpen {
+        font-size: 17px;
+        line-height: 30.94px;
+        padding-top: 30px;
+        padding-right: 15px;
+    }
+    .headerOpen::before {
+        width: 8px;
+        height: 8px;
+        top: 71%;
+    }
+    .pageContent__menu ul li {
+        margin-top: 13px;
+        font-size: 13px;
+    }
+    .pageContent__menu ul {
+        padding-top: 46px;
+    }
+    .menuFace {
+        margin-top: 160px;
+        font-size: 30.33px;
+        width: 30px;
+    }
+    .menuInstag {
+        margin-top: 10px;
+        font-size: 30.33px;
+        width: 30px;
+    }
+    .postItem{
+        height: 240px;
+    }
+    .postPlay {
+        font-size: 110px;
+        right: 37%;
+        top: 30%;
+    }
+    .postItem--header {
+        font-size: 17px;
+        font-weight: bolder;
+        line-height: 17.94px;
+        padding-top: 5px;
+    }.postItem--header {
+        font-size: 16px;
+        font-weight: bolder;
+        line-height: 15.94px;
+        padding-top: 1px;
+    }
+    .postItem--text {
+        font-size: 7px;
+        font-weight: bolder;
+        padding-top: 5px;
+    }
+    .footerCopyr {
+        width: 100%;
+        padding-top: 79px;
+        padding-bottom: 11px;
+        text-align: right;
+        font-weight: bold;
+    }
+    .footer {
+        font-size: 11px;
+    }
+    .footer hr {
+        margin-top: 120px;
+    }
+    //Artgallery
+    .pageContent__info--header {
+        font-size: 18px;
+        line-height: 20.94px;
+    }
+    .galleryImage--one {
+        height: 136px;
+    }
+    .galleryImage--two {
+        height: 136px;
+    }
+    .galleryImage--thr {
+        height: 136px;
+    }
+    .galleryImage--four {
+        height: 136px;
+    }
+    .galleryImage--five {
+        height: 136px;
+    }
+    .galleryImage--six {
+        height: 136px;
+    }
+    .galleryPost {
+        margin-bottom: 4%;
+    }
+    .private--name {
+        right: 8px;
+        bottom: 8px;
+        font-size: 11.47px;
+        line-height: 21.96px;
+    }
+    .galleryPost-text {
+        font-size: 12px;
+        line-height: 13.83px;
+        margin-bottom: 17px;
+    }
+    .pageContent__info--text {
+        font-size: 9px;
+        line-height: 14px;
+    }
+
+    .pageContent__info--header ul li {
+        margin-bottom: 12px;
+    }
+    .fashionImage--one {
+        height: 135px;
+    }
+    .fashionImage--two {
+        height: 135px;
+    }
+    .fashionImage--thr {
+        height: 135px;
+    }
+    .fashionImage--four {
+        height: 135px;
+    }
+    .fashionImage--five {
+        height: 135px;
+    }
+    .fashionImage--six {
+        height: 135px;
+    }
+    .shop__img {
+        height: 369px;
+    }
+    .shop__imgOne {
+        height: 62px;
+    }
+    .shop__imgTwo {
+        height: 62px;
+    }
+    .shop__imgThree {
+        height: 62px;
+    }
+    .shop__imgFour {
+        height: 62px;
+    }
+
+    .contentFashion--artist {
+        font-size: 16px;
+        line-height: 20.17px;
+    }
+    .contentFashion--header {
+        font-size: 21px;
+        line-height: 30.17px;
+    }
+    .contentFashion--text {
+        font-size: 10px;
+        line-height: 16px !important;
+    }
+    .contentFashion--price {
+        font-size: 19px;
+    }
+    .contentFashion--order {
+        font-size: 20px;
+    }
+    .shopWrapper--img {
+        margin: 5% 0;
+    }
+    .headerClose {
+        font-size: 16px;
+        padding-top: 24px;
+    }
+    .headerOpen {
+        font-size: 16px;
+        padding-top: 24px;
+    }
+}
+@media only screen and (max-width: 767.98px) {
+    .art-30 {
+        font-size: 13px !important;
+    }
+    .art-50 {
+        font-size: 20px !important;
+    }
+    .header {
+        margin-bottom: 40px;
+    }
+    .menuFace {
+        margin-top: 80px;
+        font-size: 26.33px;
+    }
+    .menuInstag {
+        margin-top: 0px;
+        font-size: 26.33px;
+    }
+    .mobileIndex{
+        display: block;
+    }
+    //index
+     .headerContainer {
+        width: 300px;
+    }
+    .allSecWidth {
+        width: 300px;
+    }
+    .headerWrap {
+        height: 40px;
+    }
+    .header-logo {
+        padding-left: 20px;
+        font-size: 30.44px;
+    }
+    .header-logo::before {
+        width: 9px;
+        height: 9px;
+        top: 45%;
+    }
+    .headerOpen {
+        font-size: 13px;
+        line-height: 13.94px;
+        padding-top: 21px;
+        padding-right: 13px;
+    }
+    .headerOpen::before {
+        width: 5px;
+        height: 5px;
+        top: 66%;
+    }
+    .pageContent__menu ul {
+        padding-top: 9px;
+    }
+    .pageContent__menu ul li {
+        margin-top: 10px;
+        font-size: 10px;
+        margin-right: 3%;
+    }
+    .postItem{
+        height: 300px;
+    }
+    .postPlay {
+        font-size: 40px;
+        right: 41%;
+        top: 31%;
+    }
+    
+    .postItem--wrap {
+        width: 100%;
+        float: right;
+    }
+    .postItem--header {
+        font-size: 17px;
+        font-weight: bolder;
+        line-height: 20.94px;
+        padding-top: 0px;
+    }
+    .postItem--text {
+        font-size: 10px;
+        padding-top: 10px;
+    }
+    .postItem {
+        width: 100%;
+    }
+    .footer {
+        font-size: 9px;
+    }
+    .footerCopyr {
+        padding-top: 44px;
+        padding-bottom: 13px;
+    }
+    .footer hr {
+        margin-top: 80px;
+    }
+    .pageContent__info--header {
+        font-size: 15px;
+        line-height: 19.94px;
+        padding-left: 10px;
+    }
+    .galleryImage--one {
+        height: 66px;
+    }
+    .galleryImage--two {
+        height: 66px;
+    }
+    .galleryImage--thr {
+        height: 66px;
+    }
+    .galleryImage--four {
+        height: 66px;
+    }
+    .galleryImage--five {
+        height: 66px;
+    }
+    .galleryImage--six {
+        height: 66px;
+    }
+    .galleryPost {
+        margin-bottom: 4%;
+    }
+    .pageContent__info--text {
+        font-size: 9px;
+        line-height: 12px;
+    }
+    .aboutUs--address {
+        font-size: 8px;
+    }
+    .pageContent__info--wrap iframe{
+        height: 150px;
+    }
+    .pageContent__aboutUs {
+        display: block;
+
+    }
+    .pageContent__aboutUs .pageContent__info--header{
+        width: 100%;
+        padding-left: 2%;
+        margin-bottom: 10px;
+        font-size: 9px;
+    }
+    .pageContent__aboutUs .pageContent__info--wrap {
+        width: 100%;
+        padding-left: 2%;
+    }
+    .pageContent__info--header ul {
+        display: flex;
+    }
+    .pageContent__info--header li{
+        margin-right: 15px;
+    }
+    .fashionImage--one {
+        height: 106px;
+    }
+    .fashionImage--two {
+        height: 106px;
+    }
+    .fashionImage--thr {
+        height: 106px;
+    }
+    .fashionImage--four {
+        height: 106px;
+    }
+    .fashionImage--five {
+        height: 106px;
+    }
+    .fashionImage--six {
+        height: 106px;
+    }
+    .mobileFashion{
+        background-image: url(../image/fashionBackground.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .contentFashion{
+        background-image: none;
+        background-color: unset !important;
+    }
+    .private--name {
+        right: 5px;
+        bottom: 5px;
+        font-size: 9.47px;
+        line-height: 15.96px;
+    }
+    .pageContent__info--header ul li{
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+    .contentFashion--artist {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .contentFashion--header {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .contentFashion--text {
+        font-size: 10px;
+        line-height: 17px !important;
+    }
+    .contentFashion--price {
+        font-size: 17px;
+    }
+    .contentFashion--order {
+        font-size: 20px;
+    }
+    .shop__img {
+        height: 290px;
+    }
+    .shop__imgOne {
+        height: 49px;
+    }
+    .shop__imgTwo {
+        height: 49px;
+    }
+    .shop__imgThree {
+        height: 49px;
+    }
+    .shop__imgFour {
+        height: 49px;
+    }
+    .shopWrapper--img {
+        margin: 9px 0;
+    }
+    .postItem--one {
+        display: block !important;
+        margin-right: 0 !important;
+    }
+    .postItem--wrap{
+        margin-right: 0;
+    }
+    .postItem--imgOne {
+        width: 100%;
+    }
+    .headerClose {
+        font-size: 12px;
+        line-height: 16.94px;
+        padding-top: 18px;
+        padding-right: 15px;
+    }
+    .headerOpen {
+        font-size: 12px;
+        line-height: 16.94px;
+        padding-top: 18px;
+        padding-right: 15px;
+    }
+    .headerClose::before {
+        content: " ";
+        width: 7px;
+        height: 7px;
+        background-color: #ff0000;
+        border-radius: 50%;
+        position: absolute;
+        right: 2px;
+        top: 57%;
+    }
+    .headerOpen::before {
+        content: " ";
+        width: 7px;
+        height: 7px;
+        background-color: #ff0000;
+        border-radius: 50%;
+        position: absolute;
+        right: 2px;
+        top: 57%;
+    }
+}
